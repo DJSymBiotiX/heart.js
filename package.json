@@ -1,0 +1,22 @@
+{
+  "name": "heart.js",
+  "version": "1.0.0",
+  "description": "Made With ♥",
+  "main": "heart.js",
+  "scripts": {
+    "test": "HEART_JS_HEART"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DJSymBiotiX/heart.js.git"
+  },
+  "keywords": [
+    "heart",
+    "js"
+  ],
+  "author": "Fernando Chorney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DJSymBiotiX/heart.js/issues"
+  }
+}
