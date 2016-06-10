@@ -1,1 +1,1 @@
-var HEART_JS_HEART = "♥";
+const HEART_JS_HEART = "♥";
