@@ -1,5 +1,5 @@
 // Heart emoticon
-var HEART_JS_HEART = "♥";
+exports.HEART_JS_HEART = "♥";
 
 // Prints a message
 exports.printMsg = function() {
